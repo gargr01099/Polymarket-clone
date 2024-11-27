@@ -8,7 +8,7 @@ Soren is a decentralized information market, harnessing the power of free market
 
 ## Tech stack and libraries
  - Solidity
- - Polygon Blockchain
+ - Blockchain
  - Nextjs
  - web3.js
  - TailwindCSS
