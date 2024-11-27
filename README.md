@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">SOren</h1>
+  <h1 align="center">SOreN</h1>
 </p>
 
 ## About The Project
